@@ -1,0 +1,23 @@
+#header {
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+    background-color: saddlebrown;
+}
+
+#header h3 {
+    height: 45px;
+    line-height: 45px;
+    color: #fff;
+    margin-bottom: 0;
+}
+
+.main div.row {
+    margin: 0 auto;
+}
+
+.main {
+    background-color: seashell;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}

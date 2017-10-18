@@ -1,0 +1,18 @@
+.userpic {
+    width: 40px;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    max-height:40px;
+    margin: 4px 10px;
+}
+
+.useritem {
+    text-align: center;
+}
+
+.useritem td {
+    padding: 0!important;
+    border: 2px solid #ccc;
+    height: 45px;
+    line-height: 45px!important;
+}

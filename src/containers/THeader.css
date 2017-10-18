@@ -1,0 +1,30 @@
+.theader {
+    text-align: center;
+    height:30px;
+    line-height:30px;
+}
+
+.theader td {
+    font-size: large;
+    /*width: 25%;*/
+    border: 2px solid #cccccc;
+}
+
+.sort a {
+    cursor: pointer;
+}
+
+.sort a {
+    display: inline-block;
+    width: 100%;
+}
+
+.sort a:hover,
+.sort a:visited{
+    text-decoration: none;
+}
+
+a,
+a:hover {
+    text-decoration: none;
+}
